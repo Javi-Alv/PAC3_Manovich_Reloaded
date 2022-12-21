@@ -34,3 +34,19 @@ Tots aquests esdeveniments poden ser observats en directe pels jugadors amb el s
 *Imatge de la [pàgina oficial de Fortnite](https://www.epicgames.com/fortnite/es-ES/news/fortnite-presents-the-rift-tour-featuring-ariana-grande)*
 
 Tot això dona lloc a la hibridació definitiva, el concepte de metaverse, un espai digital que et permet percebre la teva presencia mitjançant interacció amb el teu entorn i amb altres jugadors dins l’espai. A més el joc esta disponible en diverses plataformes: Xbox, PlayStation, PC, Móvil i Nintendo Switch.
+
+## Cas 2: Triviaverse
+Triviaverse va ser llançat el 8 de novembre de 2022 per la plataforma de pel·lícules i series en demanda Netflix. Aquest joc interactiu permet als subscriptors de Netflix provar els seus coneixements i competir contra un “mestre del Trivia” que posseeix tot el coneixement de l’univers utilitzant el dispositiu que més còmode et sigui: l’ordinador, el mòbil o el comandament de la televisió. Dins el joc els usuaris han de respondre un seguit lo més ràpid possible abans que el temps s’acabi i superar les puntuacions per guanyar insígnies.
+
+![imagen](https://user-images.githubusercontent.com/121139462/208942878-ece73c8f-764b-4d9c-bf1e-0975882b4339.png)
+[Vídeo de presentació de Triviaverse](https://www.youtube.com/watch?v=pPJFfJaFqmE)
+
+El mode de joc en sí es bastant simple. Primer s’ha d’escollir el numero de jugadors que pot ser 1 o 2, un cop entrem han de respondre correctament tantes preguntes com sigui possible dins el temps limitat pressionant els botons direccionals al comandament a distància o la pantalla en el cas dels dispositius mòbils. Les preguntes son de diverses categories com ciència, actualitat, cultura pop o història. A mesura que passin les rondes les preguntes augmentaran la seva dificultat.
+
+El joc presenta un seguit d’assoliments anomenats insígnies, que pots aconseguir depenent de la teva puntuació, aquests són els següents (de menor a major): Cervell d’ocell, Graduat de preescolar, Endevinador afortunat, Sorprenentment mitjà, Simple mortal, Abandó de doctorat, Super nerd, Potencial, Geni, Geni Certificat i Deu del Triviaverse.
+
+El producte es tracta d’una narrativa interactiva enfocada a jugar-se com un joc. Similar a altres històries interactives de Netflix com “Cat Burglar” i “Black Mirror: Bandersnatch”, d’entre d’altres llançades per la plataforma però amb menys història i més interacció per part de l'usuari.
+
+>Ja sigui desafiant la seva pròpia marca personal per a superar els 4000 punts o batent-se en dol amb els teus amics per arribar als 10000 punts, esperem que aprenguis alguna cosa nova i t’ho passis bé -Rick Sánchez, director de gestió de productes a Netflix, declaracions publicades al blog de la companyia.
+
+En resum, es tracta d’una re-mediació, mitjançant una digitalització i realització d’elements interactius del joc de taula conegut mundialment “Trivia”, donant al joc clàssic la oportunitat d’interactuar amb un nou públic dins un mitjà digital permeten a l'usuari participar en diverses plataformes.
