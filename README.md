@@ -24,7 +24,7 @@ El director de Fortnite, Donald Mustard va començar la seva lluita per tornar F
 
 Però l’aspecte més important de Fornite són les seves col·laboracions, i la seva primera gran col·laboració va ser amb Marvel. Per promocionar la pel·lícula dels **Vengadors: La guerra de l’infinit** van fer un mode de joc on podies portar el “guant infinit” i a partir d’aquesta col·laboració ha estat un no parar: col·laboracions amb *The Matrix*, *John Wick*, la lliga de futbol americà, *Star Wars*, *Predator*, *Terminator*, *Jinx* i *VI* del videojoc “League of Legends”, etc. Cap col·laboració és impossible, **tothom pot arribar a Fortnite.**
 
->Volem fer possible per a qualsevol desenvolupador el fet de portar el seu contingut i per a qualsevol marca a deixar la seva presencia a Fortnite. -Tim Sweeney, CEO de Epic Games.
+>*"Volem fer possible per a qualsevol desenvolupador el fet de portar el seu contingut i per a qualsevol marca a deixar la seva presencia a Fortnite."* -Tim Sweeney, CEO de Epic Games.
 
 Per últim, cal comentar que a més de totes les eines mencionades anteriorment, la mateixa història dins l’univers creat per Epic Games manté als jugadors interessats. Des de la temporada quatre on van començar a caure meteorits del cel que van impactar el mapa fins a un esdeveniment en directe on un robot gegant batalla un “kaiju”, la història va anar avançant fins a culminar amb un esdeveniment on en directe tot el mapa va ser consumit per un forat negre que va deixar el joc injugable durant 36h.
 
@@ -47,7 +47,7 @@ El joc presenta un seguit d’assoliments anomenats insígnies, que pots aconseg
 
 El producte es tracta d’una narrativa interactiva enfocada a jugar-se com un joc. Similar a altres històries interactives de Netflix com “Cat Burglar” i “Black Mirror: Bandersnatch”, d’entre altres llançades per la plataforma però amb menys història i més interacció per part de l'usuari.
 
->Ja sigui desafiant la seva pròpia marca personal per a superar els 4000 punts o batent-se en dol amb els teus amics per arribar als 10000 punts, esperem que aprenguis alguna cosa nova i t’ho passis bé. -Rick Sánchez, director de gestió de productes a Netflix, declaracions publicades al blog de la companyia.
+>*"Ja sigui desafiant la seva pròpia marca personal per a superar els 4000 punts o batent-se en dol amb els teus amics per arribar als 10000 punts, esperem que aprenguis alguna cosa nova i t’ho passis bé."* -Rick Sánchez, director de gestió de productes a Netflix, declaracions publicades al blog de la companyia.
 
 En resum, es tracta d’una remediació, mitjançant una digitalització i realització d’elements interactius del joc de taula conegut mundialment “Trivia”, donant al joc clàssic l'oportunitat d’interactuar amb un nou públic dins un mitjà digital permeten a l'usuari participar en diverses plataformes.
 
